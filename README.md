@@ -41,6 +41,6 @@ The following machine learning algorithms are included in this repository:
 To get started with this project, you can clone the repository to your local machine and explore the notebooks.
 
 ```bash
-git clone https://github.com/yourusername/machine-learning-algorithms.git
+git clone https://github.com/Oytungungor/machine-learning-algorithms.git
 cd machine-learning-algorithms
 
